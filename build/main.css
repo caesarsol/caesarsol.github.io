@@ -56,3 +56,7 @@
 .Aligner-item--bottom {
   -ms-flex-item-align: end;
       align-self: flex-end; }
+
+.Content {
+  width: 50%;
+  margin: 0 auto; }
